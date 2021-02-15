@@ -21,7 +21,7 @@ public class JDBCBoard {
 	static ResultSet rs = null;
 	
 	public static void main(String[] args) {
-		/*
+		/*///
 		 * 오라클 데이터베이스에 게시판 테이블을 생성하고, 게시판 프로그램을 만들어주세요.
 		 * 테이블 : TB_JDBC_BOARD
 		 * 컬럼 : BOARD_NO, TI
